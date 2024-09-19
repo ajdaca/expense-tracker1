@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ExpenseTracker.Server.Controllers.ExpensesController",
+    "Method": "GetExpenses",
+    "RelativePath": "api/Expenses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpenseTracker.Server.Controllers.ExpensesController",
+    "Method": "AddExpense",
+    "RelativePath": "api/Expenses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newExpense",
+        "Type": "ExpenseTracker.Server.Models.Expense",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

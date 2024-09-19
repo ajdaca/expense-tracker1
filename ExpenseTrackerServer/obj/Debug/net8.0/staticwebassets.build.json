@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "R7cYJyKa5Yjbu5FwRd4XTLtrOspAok1xtlR9ROQfvqY=",
+  "Source": "ExpenseTrackerServer",
+  "BasePath": "_content/ExpenseTrackerServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
